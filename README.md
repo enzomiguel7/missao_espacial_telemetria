@@ -49,7 +49,7 @@ Status de Alerta: Prescreve ações preventivas, como ativar modos de economia d
 Status Normal: Autoriza a tripulação a manter o plano de voo padrão e a rotina normal de pesquisas científicas.
 
 # Como Executar o Código
- - Clique no botão "play" na primeira célula para gerar os dados
+ - Clique no botão "play" na primeira célula para gerar os dados.
  - Clique no botão "play" na segunda célula para gerar a interface da telemetria.
 
 # Link para o Vídeo
