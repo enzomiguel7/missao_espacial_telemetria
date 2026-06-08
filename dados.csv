@@ -1,0 +1,44 @@
+Categoria;Subcategoria;Valor;Unidade
+Status;Motores;1;
+Status;Sistema de Voo;1;
+Status;Suporte à Vida;1;
+Status;Escudo Térmico;1;
+Status;Geradores de Energia Solar;1;
+Status;Sistemas de Comunicação;1;
+Status;Laboratório Científico;0;
+Status;Módulo de Agricultura;0;
+Status;Módulo Médico;0;
+
+Energia;0800;-500;kWh
+Energia;1200;-200;kWh
+Energia;2000;-150;kWh
+Energia;1200;600;kWh
+Energia;2000;80;kWh
+Energia;2300;500;kWh
+
+Ambiente;Temperatura Externa na Terra;25;°C
+Ambiente;Temperatura Externa no Espaço;-3;°C
+Ambiente;Temperatura Interna dos Tanques;-190;°C
+Ambiente;Temperatura Interna da Nave;22;°C
+Ambiente;Nível de Oxigênio;21;%
+Ambiente;Nível de CO2;500;ppm
+Ambiente;Qualidade de Comunicação;72;%
+Ambiente;Vento na Terra;4;m/s
+
+Log;Alerta;Oscilação na comunicação às 02:15;
+Log;Reinicialização;Sistema de voo reiniciado às 02:30;
+Log;Falha;Sensor de radiação não respondeu às 03:05;
+Log;Economia;Modo de baixo consumo ativado às 03:20;
+Log;Prioridade;Suporte à vida definido como prioridade máxima às 03:45;
+Log;Alerta;Pico inesperado de consumo energético às 04:00;
+Log;Reinicialização;Laboratório científico inicializado às 04:15;
+Log;Inconsistência;Reserva energética registrada como -120 kWh às 04:30;
+Log;Falha;Escudo térmico não respondeu ao teste às 05:00;
+Log;Alerta;Nível de oxigênio caiu para 19% às 05:15;
+
+Reserva;0800;92;%
+Reserva;1100;80;%
+Reserva;1400;69;%
+Reserva;1700;56;%
+Reserva;2000;44;%
+Reserva;2300;32;%
