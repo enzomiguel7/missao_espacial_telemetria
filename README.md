@@ -52,6 +52,7 @@ Status Normal: Autoriza a tripulação a manter o plano de voo padrão e a rotin
  - Clique no botão "play" na segunda célula para gerar a interface da telemetria.
 
 # Link para o Vídeo
+https://www.youtube.com/watch?v=7U8Rq4YdWOQ
 
 # Conclusão
 O desenvolvimento deste sistema inteligente de monitoramento demonstrou a importância do pensamento computacional e das estruturas de dados em cenários de missão crítica. Através da divisão correta de responsabilidades entre listas, dicionários, filas e pilhas, o software foi capaz de processar telemetrias espaciais complexas em tempo real. A integração do algoritmo de regressão linear provou como a análise preditiva pode antecipar falhas de energia e guiar recomendações técnicas automatizadas, garantindo de forma ética e segura a integridade dos equipamentos e a sobrevivência da tripulação.
