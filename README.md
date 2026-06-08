@@ -1,4 +1,3 @@
-# **Conteúdo do README.md**
 # Equipe
 - Enzo Miguel de Oliveira Silva - rm571639
 - Gabriel da Silva Amaral - rm570421
